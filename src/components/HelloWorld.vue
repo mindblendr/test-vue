@@ -109,7 +109,6 @@ export default {
 		msg: String,
 	},
 	mounted: function () {
-		alert('test');
 	},
 };
 </script>
